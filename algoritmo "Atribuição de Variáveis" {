@@ -1,0 +1,14 @@
+algoritmo "Atribuição de Variáveis" {
+var
+   a, b: inteiro
+
+inicio
+   // Atribuindo valores às variáveis
+   a <- 10
+   b <- 20
+
+   // Exibindo os valores das variáveis
+   escreva("O valor de a é: ", a)
+   escreva("O valor de b é: ", b)
+fim
+}
